@@ -17,6 +17,8 @@ hello everyone , my name is Zahra aiqaisi , i am 29 years old , i hold special e
 | read06 | [read06](https://zahraalqaisi.github.io/reading-notes/read06) |
 
 
+
+
                                                                       [my github link](https://github.com/zahraalqaisi)
 this is my first repo
 ## growth mindset 

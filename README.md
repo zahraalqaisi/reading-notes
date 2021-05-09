@@ -13,7 +13,8 @@ hello everyone , my name is Zahra aiqaisi , i am 29 years old , i hold special e
 | read02 | [link](https://zahraalqaisi.github.io/reading-notes/read02) |
 | read03 | [read03](https://zahraalqaisi.github.io/reading-notes/read03) |
 | read04 | [read04](https://zahraalqaisi.github.io/reading-notes/read04) |
-
+| read05 | [read05](https://zahraalqaisi.github.io/reading-notes/read05) |
+| read06 | [read06](https://zahraalqaisi.github.io/reading-notes/read06) |
 
 
                                                                       [my github link](https://github.com/zahraalqaisi)
@@ -32,3 +33,6 @@ growth mindset helps you to be more produtive and ceative
 ***for more informations open the link down***
 
 [grouth minset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+ 
+
+ 

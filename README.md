@@ -17,6 +17,32 @@ hello everyone , my name is Zahra aiqaisi , i am 29 years old , i hold special e
 | read06 | [read06](https://zahraalqaisi.github.io/reading-notes/read06) |
 
 
+# reading-note201
+
+### hello everyone , my name is Zahra aiqaisi , i am 29 years old , i hold special education diploma ,i worked as a teacher for people with special needs for 5 years , i am glad to be one of the members of this scholarship because its a great opportunity to meet new friends and learn new things.                                                            github profile link: https://github.com/zahraalqaisi
+
+
+## code 201 reading notes :
+
+| Assaigment | link |
+| --- | --- |
+| class-1 | [class-1](https://zahraalqaisi.github.io/reading-note201/class-1) |
+| class-2 |  |
+| class-3 |  |
+| class-4 |  |
+| class-5 |  |
+| class-6 |  |
+| class-7 |  |
+| class-8 |  |
+| class-9 |  |
+| class-10 |  |
+| class-11 |  |
+| class-12 |  |
+| class-13 |  |
+| class-14 |  |
+| class-15 |  |
+
+
 
 
                                                                       [my github link](https://github.com/zahraalqaisi)
@@ -32,6 +58,8 @@ growth mindset helps you to be more produtive and ceative
 
 > fixed mindset
 > is the opposite of the growth mindset
+
+
 ***for more informations open the link down***
 
 [grouth minset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)

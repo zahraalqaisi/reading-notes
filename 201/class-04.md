@@ -117,4 +117,63 @@ pixels (to demonstrate its relevance without scrolling).
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
 
+#  the Duckett JS book:
+
+## Chapter 3 (first part): “Functions, Methods, and Objects”
+
+### WHAT IS A FUNCTION?
+
+***Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).***
+
+### how we could write a function?
+
+- ***declaring a function***
+to create a function we give a name and then write the statement
+needed ro achive its inside the curly braces 
+- ***calling a function***
+having declared the function we can then execute all fo statement between its curly braces with just one line code
+
+
+### declaring function that need information
+
+***in such cases when you declare the function you give is a parameters
+inside the function the parameters act like variables***
+
+### calling function that need information
+
+***when you call a function that has a parameters you specify the values it should use in parantheses that follow its name the values are called arguments and any they can be provided as values or as variables***
+
+### getting a single value out of a function 
+
+***some function return information to the code that called them for example when they perform a calculation they return the result***
+
+### GETTING MULTIPLE VALUES OUT OF A FUNCTION
+
+***Functions can return more than one value using an array. For example, this function calculates the area and volume of a box.***
+
+### creating an object: constructor notation
+
+***the new keyword and the object constructor create a blank object 
+you can then add properties and methods to the object***
+
+### updating and object 
+
+***to update the values of properties use dot notation or square bracket they work on objects created using literal or constructor notation to delete a property use delete keyword***
+
+### CREATING MANY OBJECTS: CONSTRUCTOR NOTATION 
+
+***Sometimes you will want several objects to represent similar things. Object constructors can use a function as a template for creating objects. First, create the template with the object's properties and methods.***
+
+
+
+
+
+
+
+
+
+
+
+
+
     

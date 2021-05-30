@@ -63,7 +63,7 @@ to delete a propety use the delete keuword***
 
 ### arrays of object and object in arrays :
 
-*** you can combine arrays and object to create complex data sutrcture arrays can store a series of object and object can also hold arrays
+*** you can combine arrays and object to create complex data sutrcture arrays can store a series of object and object can also hold arrays .
 
 
 

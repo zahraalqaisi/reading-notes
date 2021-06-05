@@ -36,7 +36,7 @@ hello everyone , my name is Zahra aiqaisi , i am 29 years old , i hold special e
 | class-8 | [class-08](https://zahraalqaisi.github.io/reading-notes/201/class-08) |
 | class-9 | [class-09](https://zahraalqaisi.github.io/reading-notes/201/class-09) |
 | class-10 | [class-10](https://zahraalqaisi.github.io/reading-notes/201/class-10) |
-| class-11 |  |
+| class-11 | [class-11](https://zahraalqaisi.github.io/reading-notes/201/class-11) |
 | class-12 |  |
 | class-13 |  |
 | class-14 |  |
